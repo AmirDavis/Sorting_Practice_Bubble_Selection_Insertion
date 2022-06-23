@@ -1,7 +1,7 @@
 import javax.sound.midi.Soundbank;
 import java.lang.reflect.GenericArrayType;
 
-public class main {
+public class SortingPractice {
     public static void main(String[] args){
         int[] arr = {85, 3, 1, 32, 25};
         int[] arr2 = {99, 23, 6, 45, 1};
